@@ -21,15 +21,15 @@ global.ownername = 'CYBER UDAYIPP' //owner name
 global.botname = 'ZROXY BUG BOT' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.packname = 'Sticker By 🌼ᴢʀᴏxʏ ʙᴏᴛ, ᴄʏʙᴇʀ ᴜᴅᴀʏɪᴘᴘ🌼'
+global.author = 'CYBER UDAYIPP'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🥵'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://youtube.com/@cyberudayipp?si=zqXdwY7ar9sB3szq'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
